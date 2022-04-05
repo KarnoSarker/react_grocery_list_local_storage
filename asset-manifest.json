@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_grocery_list_local_storage/static/css/main.d245b3a5.css",
+    "main.js": "/react_grocery_list_local_storage/static/js/main.efe47dde.js",
+    "index.html": "/react_grocery_list_local_storage/index.html",
+    "main.d245b3a5.css.map": "/react_grocery_list_local_storage/static/css/main.d245b3a5.css.map",
+    "main.efe47dde.js.map": "/react_grocery_list_local_storage/static/js/main.efe47dde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d245b3a5.css",
+    "static/js/main.efe47dde.js"
+  ]
+}
